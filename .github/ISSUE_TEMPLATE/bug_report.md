@@ -1,7 +1,7 @@
 ---
 name: Bug
 about: FavarettoDev's template for bug issues
-title: ''
+title: '[Functionality Name] - The main intention of the ticket'
 labels: ''
 assignees: ''
 
