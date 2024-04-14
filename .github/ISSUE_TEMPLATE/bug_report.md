@@ -1,30 +1,38 @@
 ---
-name: Bug
-title: '[Functionality name] - The main intention of the ticket'
+name: Bug report
+about: Create a report to help us improve
+title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**SCENARIO**
-The scenario that created the need of the ticket must be explained.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
----
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**ENVIRONMENT**
-The environment where the main problem of the ticket was found.
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
----
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**TO DO**
-Here, things that must be fixed or improved must be listed.
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
----
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-**STEPS TO REPRODUCE**
-The test case to reproduce the main problem related to the ticket must be listed here.
-
----
-
-**TEST CASE**
-Must specify all steps the developer must execute to be sure that the problems specified for that ticket has been solved.
+**Additional context**
+Add any other context about the problem here.
